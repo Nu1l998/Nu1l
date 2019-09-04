@@ -1,1 +1,1 @@
-window.TEXT_SEARCH_DATA={'posts':[{'title':'Welcome','url':'%2F2018%2F07%2F01%2Fwelcome.html'},{'title':'MarkDown+Note','url':'%2F2019%2F09%2F03%2FstartThis.html'}]};
+window.TEXT_SEARCH_DATA={'posts':[{'title':"Welcome",'url':"/2018/07/01/welcome.html"},{'title':"MarkDown Note",'url':"/2019/09/03/startThis.html"}]};
