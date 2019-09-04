@@ -12,6 +12,8 @@ show_edit_on_github: false
 
 _how to use_
 
+[跳转](#Page)
+
 ~the Mark Down~
 
 *Everyth is All right*
@@ -75,3 +77,6 @@ success`{:.success}
 > {:.rounded}  {:.circle}  {:.border} {:.shadow}
 ```
 
+## Page
+
+123
