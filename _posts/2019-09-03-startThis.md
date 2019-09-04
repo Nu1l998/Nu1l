@@ -33,7 +33,7 @@ Success Text.
 
 success`{:.success}
 
-![Image](/../../assets/pic/test.jpg){:.border.rounded}
+![Image](https://raw.githubusercontent.com/Nu1l998/Nu1l/master/pic/test.jpg){:.border.rounded}
 
 > or {:.circle.shadow} 
 >
