@@ -1,6 +1,7 @@
 ---
 title: Start This
 tags: TeXt
+key: Page_StartThis
 ---
 
 # This is The First Page to Start my self update
