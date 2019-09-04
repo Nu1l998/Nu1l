@@ -13,7 +13,7 @@ Cause my work's need,I have to work this thing.(Do not ask me what im I doning),
 So I write this md voluntarily to help others to have his first setp into this mysterious things.
 {:.success}
 
-## 0x0 First thing - Connect to Ur Device
+## 0x0  Connect to Ur Device
 
 	we need to prepare some Tools on Mac to connect to Ur Apple devices
 
@@ -42,13 +42,15 @@ So I write this md voluntarily to help others to have his first setp into this m
 	Ok until here you can use your Apple devices like a linux System
 
 	
-## 0x1 Tool is helpful - Make up you own environment.
+## 0x1  Make up you own environment.
 	Ok Then you need to Install some soft for Reverse !
 
 * 1.IDA (someone like Hooper ,but it very slow!)
 * 2.iFunBox (a Tool like iTunes but we can assess to the root dir) 
+	
 	- ps: if you like scp you can choose it 
 * 3 Xcode if you system not support high version install 9.4 is ok
+	
 	- download it from apple.com
 * 4 brew
 	- many tools will install by it ,just like apt-get in ubuntu
