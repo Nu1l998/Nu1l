@@ -1,6 +1,6 @@
 ---
 title: MarkDown Note
-tags: Test
+tags: MarkDown
 key: Page_StartThis
 show_edit_on_github: false
 ---
