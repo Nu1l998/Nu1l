@@ -12,7 +12,7 @@ show_edit_on_github: false
 
 _how to use_
 
-[跳转](#Page)
+[跳转](https://nu1l998.github.io/Nu1l/2018/07/01/welcome.html#Welcome)
 
 ~the Mark Down~
 
