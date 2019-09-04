@@ -1,7 +1,9 @@
 ---
-title: Start This
-tags: TeXt
+title: MarkDown Note
+tags: Test
 key: Page_StartThis
+comment: true
+show_edit_on_github: false
 ---
 
 # This is The First Page to Start my self update
@@ -21,6 +23,23 @@ v1    | v2     |v3
 
  - [x] There is the source code under me
 
+Success Text.
+{:.success}
+
+{:.info}
+
+{:.warning}
+
+{:.error}
+
+success`{:.success}
+
+![Image](/../pic/test.jpg){:.border.rounded}
+
+> or {:.circle.shadow} 
+>
+> {:.rounded}  {:.circle}  {:.border} {:.shadow}
+
 ```
 # This is The First Page to Start my self update
     This is the Test Page
@@ -39,5 +58,21 @@ v1    | v2     |v3
 
  - [x] There is the source code under me
 
+Success Text.
+{:.success}
+
+{:.info}
+
+{:.warning}
+
+{:.error}
+
+success`{:.success}
+
+![Image](/../pic/test.jpg){:.border.rounded}
+
+> or {:.circle.shadow} 
+>
+> {:.rounded}  {:.circle}  {:.border} {:.shadow}
 ```
 

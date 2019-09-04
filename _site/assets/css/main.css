@@ -3402,19 +3402,6 @@ a > .item__header, a.item__header, .item__header > a {
   .footer__author-links .author-links {
     text-align: center; }
 
-.article-list .item__meta {
-  padding: 0 1rem 0 0;
-  font-family: Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace;
-  font-size: 0.85rem;
-  white-space: nowrap; }
-.article-list.gird--sm .card__header {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap; }
-
-.article-list__group-header {
-  margin-top: 1rem; }
-
 .article__info {
   font-size: 0.85rem;
   color: rgba(0, 0, 0, 0.5); }
@@ -3710,32 +3697,18 @@ a > .item__header, a.item__header, .item__header > a {
     .article__content table th {
       font-weight: 700; }
 
-.article__footer {
-  margin: 1.5rem 0;
-  font-size: 0.85rem; }
+.article-list .item__meta {
+  padding: 0 1rem 0 0;
+  font-family: Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace;
+  font-size: 0.85rem;
+  white-space: nowrap; }
+.article-list.gird--sm .card__header {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
 
-.article__license a, .article__subscribe a {
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out; }
-  .article__license a, .article__license a:link, .article__license a:visited, .article__subscribe a, .article__subscribe a:link, .article__subscribe a:visited {
-    text-decoration: none; }
-  .root[data-is-touch="false"] .article__license a:hover, .root[data-is-touch="false"] .article__subscribe a:hover {
-    text-decoration: underline; }
-  .root[data-is-touch] .article__license a.active, .root[data-is-touch] .article__license a:active, .root[data-is-touch] .article__subscribe a.active, .root[data-is-touch] .article__subscribe a:active {
-    text-decoration: none; }
-  .article__license a, .article__license a:link, .article__license a:visited, .article__subscribe a, .article__subscribe a:link, .article__subscribe a:visited {
-    color: rgba(0, 0, 0, 0.85); }
-  .root[data-is-touch="false"] .article__license a:hover, .root[data-is-touch="false"] .article__subscribe a:hover {
-    color: #563a20; }
-  .root[data-is-touch] .article__license a.active, .root[data-is-touch] .article__license a:active, .root[data-is-touch] .article__subscribe a.active, .root[data-is-touch] .article__subscribe a:active {
-    color: #1e140b; }
-  .article__license a.disabled, .article__license a:disabled, .article__subscribe a.disabled, .article__subscribe a:disabled {
-    color: rgba(0, 0, 0, 0.2) !important; }
-
-.article__license {
-  color: rgba(0, 0, 0, 0.5); }
-  .article__license img {
-    height: 1.6rem; }
+.article-list__group-header {
+  margin-top: 1rem; }
 
 .author-links > ul {
   margin: 0; }
