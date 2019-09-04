@@ -2,7 +2,6 @@
 title: MarkDown Note
 tags: Test
 key: Page_StartThis
-comment: true
 show_edit_on_github: false
 ---
 
