@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,19 +127,19 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    clientID    : e70978e6847321c3efbe # GitHub Application Client ID
+    clientSecret: dd11004fbffc5204dc7eb1fbc2840eff93b92557 # GitHub Application Client Secret
+    repository  : nu1l998.github.io # GitHub repo
+    owner       : Nu1l998 # GitHub repo owner
+    admin: Nu1l998 # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
     app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
-    placeholder : # Prompt information
+    app_key     :  # LeanCloud App key
+    placeholder :  # Prompt information
 
 
 ## => Pageview
@@ -151,7 +151,7 @@ pageview:
   leancloud:
     app_id    : Ei5s0HT2fg9SxYoWLKKSdiXW-gzGzoHsz # LeanCloud App id
     app_key   : 9xWhC2dacR8Pgw3dnYcBb81Y # LeanCloud App key
-    app_class : Test # LeanCloud App class
+    app_class : Nu1l_Click # LeanCloud App class
 
 
 ## => Search
